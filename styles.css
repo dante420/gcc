@@ -1,0 +1,66 @@
+@charset "UTF-8";
+
+body{
+  background-color: turquoise;
+}
+
+#header{
+  border: 20px ;
+  border-bottom: dashed;
+  border-color: lime;
+
+  background-color:deepskyblue;
+}
+
+#first_line{
+  text-align: left;
+margin-left: 30px;
+  font-size: 20px;
+}
+
+#second_line
+{
+margin-left: 45px;
+  text-align: left;
+  font-size: 30px;
+}
+
+#third_line{
+  text-align: left;
+  color: orange;
+  margin-left: 15px;
+
+  
+}
+#zav{background-color: pink;}
+.title{
+  text-align: center;
+  
+  margin-top: 10%;
+  color: blueviolet;
+  font-size:35px;
+}
+
+#text{
+  margin-left: 1%;
+  border-right:  double red;
+  border-bottom: double red;
+}
+
+#text b{
+  color:lime;
+  font-size: 5px;
+}
+.b { border-bottom: 2px dotted #ED1C24; }
+#fio{
+  font-weight: bold;
+  margin-top: 15%;
+  text-align: right;
+  color: green;
+}
+#date{
+  border-top: solid blue;
+  text-align:right;
+font-weight: bold;
+color:blue;
+}
